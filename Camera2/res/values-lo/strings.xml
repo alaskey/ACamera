@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="delete">"ລຶບ"</string>
+    <plurals name="delete_selection">
+        <item quantity="one">"ລຶບລາຍການທີ່ເລືອກ?"</item>
+        <item quantity="other">"ລຶບລາຍການທີ່ເລືອກບໍ່?"</item>
+    </plurals>
+    <string name="confirm">"ຢືນຢັນ"</string>
+    <string name="cancel">"ຍົກເລີກ"</string>
+</resources>

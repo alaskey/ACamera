@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="delete">"Устгах"</string>
+    <plurals name="delete_selection">
+        <item quantity="one">"Сонгогдсоныг устгах уу?"</item>
+        <item quantity="other">"Сонгогдсоныг устгах уу?"</item>
+    </plurals>
+    <string name="confirm">"Бататгах"</string>
+    <string name="cancel">"Цуцлах"</string>
+</resources>

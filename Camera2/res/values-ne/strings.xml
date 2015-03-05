@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="delete">"मेट्नुहोस्"</string>
+    <plurals name="delete_selection">
+        <item quantity="one">"चयन गरिएकालाई हटाउने हो?"</item>
+        <item quantity="other">"छानिएका आइटमहरू हटाउने हो ?"</item>
+    </plurals>
+    <string name="confirm">"निश्चित गर्नुहोस्"</string>
+    <string name="cancel">"रद्द गर्नुहोस्"</string>
+</resources>
